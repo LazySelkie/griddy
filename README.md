@@ -1,3 +1,7 @@
+## Fork info
+
+This is fork of xaukael's Foundry VTT module called griddy. This fork adds very simple weight calculations for items shown in griddy's grid. Weight is shown in bottom left corner of item. Weight is calculated as quantity of items in cell * weight of individual item. Containers' weight is calculated too (as sum of container item's weight and weights of all items in it).
+
 # Griddy
 
 This module provides core functionality for managing items, but some assembly will be required 
